@@ -1,2 +1,5 @@
-# test-plan
-A Simple Test Plan Template
+# Test Plan
+## Introduction
+### Goals
+### Non Goals
+### Scenarios
