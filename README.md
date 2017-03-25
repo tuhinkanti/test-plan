@@ -1,5 +1,5 @@
 # Test Plan
 ## Introduction
-### Goals
-### Non Goals
-### Scenarios
+### In Scope
+### Out of Scope
+### Test Scenarios
